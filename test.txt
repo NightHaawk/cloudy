@@ -1,2 +1,2 @@
 test
-merge form other
+merge form RND
